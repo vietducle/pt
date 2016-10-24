@@ -1,0 +1,8 @@
+C:\Users\DELL\Desktop\photo\photo\bin\Debug\photo.exe
+C:\Users\DELL\Desktop\photo\photo\bin\Debug\photo.pdb
+C:\Users\DELL\Desktop\photo\photo\obj\x86\Debug\photo.Form1.resources
+C:\Users\DELL\Desktop\photo\photo\obj\x86\Debug\photo.Properties.Resources.resources
+C:\Users\DELL\Desktop\photo\photo\obj\x86\Debug\photo.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\photo\photo\obj\x86\Debug\photo.exe
+C:\Users\DELL\Desktop\photo\photo\obj\x86\Debug\photo.pdb
+C:\Users\DELL\Desktop\photo\photo\obj\x86\Debug\photo.csprojResolveAssemblyReference.cache

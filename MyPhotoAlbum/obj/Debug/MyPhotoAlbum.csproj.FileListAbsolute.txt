@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\photo-tool-hong_nhung-master\Photo Tool\MyPhotoAlbum\bin\Debug\MyPhotoAlbum.dll
+C:\Users\DELL\Desktop\photo-tool-hong_nhung-master\Photo Tool\MyPhotoAlbum\bin\Debug\MyPhotoAlbum.pdb
+C:\Users\DELL\Desktop\photo-tool-hong_nhung-master\Photo Tool\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\photo-tool-hong_nhung-master\Photo Tool\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.dll
+C:\Users\DELL\Desktop\photo-tool-hong_nhung-master\Photo Tool\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.pdb
+C:\Users\DELL\Desktop\photo\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\photo\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.dll
+C:\Users\DELL\Desktop\photo\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.pdb
+C:\Users\DELL\Desktop\photo\MyPhotoAlbum\bin\Debug\MyPhotoAlbum.dll
+C:\Users\DELL\Desktop\photo\MyPhotoAlbum\bin\Debug\MyPhotoAlbum.pdb
