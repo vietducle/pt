@@ -187,21 +187,21 @@
             this.mnuScale.Checked = true;
             this.mnuScale.CheckState = System.Windows.Forms.CheckState.Checked;
             this.mnuScale.Name = "mnuScale";
-            this.mnuScale.Size = new System.Drawing.Size(141, 22);
+            this.mnuScale.Size = new System.Drawing.Size(152, 22);
             this.mnuScale.Tag = "Zoom";
             this.mnuScale.Text = "Scale to Fit";
             // 
             // mnuStretch
             // 
             this.mnuStretch.Name = "mnuStretch";
-            this.mnuStretch.Size = new System.Drawing.Size(141, 22);
+            this.mnuStretch.Size = new System.Drawing.Size(152, 22);
             this.mnuStretch.Tag = "StretchImage";
             this.mnuStretch.Text = "Stretch to Fit";
             // 
             // mnuActual
             // 
             this.mnuActual.Name = "mnuActual";
-            this.mnuActual.Size = new System.Drawing.Size(141, 22);
+            this.mnuActual.Size = new System.Drawing.Size(152, 22);
             this.mnuActual.Tag = "Normal";
             this.mnuActual.Text = "Actual to Fit";
             // 
@@ -219,23 +219,30 @@
             // 
             // statusInfo
             // 
+            this.statusInfo.AutoSize = false;
             this.statusInfo.Name = "statusInfo";
-            this.statusInfo.Size = new System.Drawing.Size(223, 19);
-            this.statusInfo.Text = "toolStripStatusLabel                                   1";
+            this.statusInfo.Size = new System.Drawing.Size(247, 19);
+            this.statusInfo.Spring = true;
+            this.statusInfo.Text = "Desc";
             // 
             // statusImageSize
             // 
             this.statusImageSize.BorderSides = ((System.Windows.Forms.ToolStripStatusLabelBorderSides)((((System.Windows.Forms.ToolStripStatusLabelBorderSides.Left | System.Windows.Forms.ToolStripStatusLabelBorderSides.Top)
                         | System.Windows.Forms.ToolStripStatusLabelBorderSides.Right)
                         | System.Windows.Forms.ToolStripStatusLabelBorderSides.Bottom)));
+            this.statusImageSize.BorderStyle = System.Windows.Forms.Border3DStyle.SunkenInner;
             this.statusImageSize.Name = "statusImageSize";
-            this.statusImageSize.Size = new System.Drawing.Size(65, 19);
-            this.statusImageSize.Text = "statusstrip";
+            this.statusImageSize.Size = new System.Drawing.Size(42, 19);
+            this.statusImageSize.Text = "W x H";
             // 
             // statusAlbumPos
             // 
+            this.statusAlbumPos.BorderSides = ((System.Windows.Forms.ToolStripStatusLabelBorderSides)((((System.Windows.Forms.ToolStripStatusLabelBorderSides.Left | System.Windows.Forms.ToolStripStatusLabelBorderSides.Top)
+                        | System.Windows.Forms.ToolStripStatusLabelBorderSides.Right)
+                        | System.Windows.Forms.ToolStripStatusLabelBorderSides.Bottom)));
+            this.statusAlbumPos.BorderStyle = System.Windows.Forms.Border3DStyle.SunkenInner;
             this.statusAlbumPos.Name = "statusAlbumPos";
-            this.statusAlbumPos.Size = new System.Drawing.Size(24, 19);
+            this.statusAlbumPos.Size = new System.Drawing.Size(28, 19);
             this.statusAlbumPos.Text = "1/1";
             // 
             // Form1
